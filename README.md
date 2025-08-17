@@ -122,4 +122,3 @@ Real estate is illiquid, requires high capital, and lacks global accessibility.
 📄 License
 
 MIT License.
-
